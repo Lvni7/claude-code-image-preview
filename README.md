@@ -2,9 +2,9 @@
 
 **See the images you paste or drag into Claude Code before you press Enter.**
 
-[![License: MIT](https://img.shields.io/badge/license-MIT-6C47FF.svg)](LICENSE)
-![Claude Code plugin](https://img.shields.io/badge/Claude%20Code-plugin-6C47FF)
-![macOS](https://img.shields.io/badge/platform-macOS-6C47FF)
+[![License: MIT](https://img.shields.io/badge/license-MIT-FB1E58.svg)](LICENSE)
+![Claude Code plugin](https://img.shields.io/badge/Claude%20Code-plugin-FB1E58)
+![macOS](https://img.shields.io/badge/platform-macOS-FB1E58)
 
 🇫🇷 [Lire en français](README.fr.md)
 
