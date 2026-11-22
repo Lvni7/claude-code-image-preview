@@ -4,7 +4,7 @@
 
 🇬🇧 [Read in English](README.md)
 
-![Le champ de saisie de Claude Code, avec un bouton d'image au-dessus et l'image affichée juste sous le bouton](assets/preview.png)
+![Claude Code avec l'aperçu d'image : 1, colle ou glisse une image ; 2, un bouton apparaît au-dessus du champ de saisie ; 3, appuie dessus pour vérifier l'image avant d'envoyer](assets/preview.png)
 
 Quand tu colles une capture d'écran ou glisses un fichier dans Claude Code, le champ de saisie n'affiche que `[Image #1]`. C'est la bonne capture ? La dernière version de la maquette ? Impossible de le savoir avant l'envoi.
 

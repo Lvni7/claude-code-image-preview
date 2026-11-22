@@ -8,7 +8,7 @@
 
 🇫🇷 [Lire en français](README.fr.md)
 
-![A Claude Code prompt with an image button above it and the image drawn right under the button](assets/preview.png)
+![Claude Code with the image preview: 1, paste or drop an image; 2, a button appears above the prompt; 3, press it to check the image before you send](assets/preview.png)
 
 When you paste a screenshot or drop a file into Claude Code, the prompt only shows `[Image #1]`. Was it the right screenshot? The latest version of the mockup? You can't tell until it's sent.
 
