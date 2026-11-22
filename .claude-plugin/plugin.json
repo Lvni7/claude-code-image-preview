@@ -1,0 +1,21 @@
+{
+  "name": "image-preview",
+  "version": "1.0.0",
+  "description": "Preview the images you paste or drag into Claude Code before you send them: one button per image above the prompt, a click draws it. The band empties once the message is sent.",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "Lvni7",
+    "url": "https://github.com/Lvni7"
+  },
+  "homepage": "https://github.com/Lvni7/claude-code-image-preview",
+  "repository": "https://github.com/Lvni7/claude-code-image-preview",
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "images",
+    "preview",
+    "clipboard",
+    "drag-and-drop",
+    "terminal"
+  ]
+}

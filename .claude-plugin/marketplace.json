@@ -1,0 +1,17 @@
+{
+  "name": "claude-code-image-preview",
+  "owner": {
+    "name": "Lvni7",
+    "url": "https://github.com/Lvni7"
+  },
+  "metadata": {
+    "description": "Preview pasted and dragged images in Claude Code before sending them."
+  },
+  "plugins": [
+    {
+      "name": "image-preview",
+      "source": "./",
+      "description": "Preview the images you paste or drag into Claude Code before you send them: one button per image above the prompt, a click draws it. The band empties once the message is sent."
+    }
+  ]
+}
